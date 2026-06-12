@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --cor-de-fundo: #0f172a;
   --azul: #2563eb;
